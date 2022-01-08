@@ -1,0 +1,1 @@
+Write a JavaScript program to create a new string without the first and last character of a given string

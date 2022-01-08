@@ -1,0 +1,1 @@
+// Write a JavaScript program to test whether a string end with "Script". The string length must be greater or equal to 6.
