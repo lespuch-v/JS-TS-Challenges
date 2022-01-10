@@ -1,0 +1,1 @@
+Write a JavaScript program to find the larger value between the first or last and set all the other elements with that value. Display the new array.
