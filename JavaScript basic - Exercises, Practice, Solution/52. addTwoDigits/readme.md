@@ -1,0 +1,1 @@
+Write a JavaScript program to add two digits of a given positive string of length two.¨
